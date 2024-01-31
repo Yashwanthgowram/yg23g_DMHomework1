@@ -1,5 +1,8 @@
 def question8_1():
-    answer= ['x1', 'x2']
+    """
+    answer= 'string'  or ['pt1', 'pt2']
+    """
+    answer = ['x1','x2']
     return answer
 
 def question8_2():
