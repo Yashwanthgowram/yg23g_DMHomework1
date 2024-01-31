@@ -1,5 +1,6 @@
 def question3_1():
-    answer = ['continuous', 'quantitative', 'ratio']
+    # answer = ['string', 'string', 'string']
+    answer = ['continuous', 'quantitative', 'interval']
     return answer
 
 def question3_2():
@@ -23,7 +24,7 @@ def question3_6():
     return answer
 
 def question3_7():
-    answer = ['continuous', 'qualitative', 'ratio']
+    answer = ['continuous', 'quantitative', 'ratio']
     return answer
 
 def question3_8():
